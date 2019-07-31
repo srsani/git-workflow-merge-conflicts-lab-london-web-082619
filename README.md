@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-git pull# Git Merge Conflicts
+# Git Merge Conflicts
 =======
 # Git Merge Conflicts
 >>>>>>> origin/doc-brown
